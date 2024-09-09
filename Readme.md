@@ -7,6 +7,7 @@
     <sub>Image taken from Microsoft <a href="https://www.microsoft.com/en-us/research/project/vasa-1/">Vasa-1</a></sub>
 </p>
 
+<h3 align="center"> The real problem is not the existential threat of AI. Instead, it is in the development of ethical AI systems. ― Rana El Kaliouby </h3>
 
 This repository is a proof of concept (PoC) that demonstrates how transfer learning can be used to detect AI-generated faces. By leveraging pre-trained models and fine-tuning them for the specific task of face detection, this project aims to show the potential of transfer learning in distinguishing between real and AI-generated faces.
 
